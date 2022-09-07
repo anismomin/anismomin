@@ -3,8 +3,8 @@
 ### I am working at 11th Agency as a `Senior Full Stack Developer`. I have proven `10+ years` solid background of experience in Full Stack Development
 
 -   👨🏼‍💻 I’m building full stack web applications and web sites.
--   🌱 I’m currently learning [Tailwind][tailwind], [AWS][aws], [JAMStack][jamstack] etc.
--   💜 Most loving [React][react], [Vue][vue], [Laravel][laravel], [Styled-Components][styled_components]
+<!-- -   🌱 I’m currently learning [AWS][aws], [JAMStack][jamstack] etc. -->
+-   💜 Most loving [AWS][aws], [Laravel][laravel], [Docker][docker], [React][react], [Styled-Components][styled_components], [Vue][vuejs]
 -   💬 Ask me about anything full stack development
 
 ### Connect me via:
@@ -22,5 +22,6 @@
 [aws]: https://aws.amazon.com
 [react]: https://reactjs.org
 [vuejs]: https://vuejs.org
+[docker]: https://www.docker.com/
 [styled_components]: https://styled-components.com
 [jamstack]: https://jamstack.org
